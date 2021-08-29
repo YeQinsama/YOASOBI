@@ -1,5 +1,5 @@
 # YOASOBI
-YOASOBI's song with share to this repository!
+欢迎来到YOASOBI项目Github分站！
 
 Welcome to GitHub sub station of YOASOBI Project !
 
